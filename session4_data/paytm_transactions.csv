@@ -1,0 +1,5 @@
+transaction_id;amount;currency;status
+1;100;INR;success
+2;;USD;pending
+3;250;INR;
+4;300;INR;success
