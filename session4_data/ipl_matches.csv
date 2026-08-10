@@ -1,3 +1,9 @@
 match_id,team1,team2,score1,score2,venue
 1,CSK,RCB,180,175,Chennai
 2,MI,KKR,190,185,Mumbai
+3,GT,SRH,200,195,Ahmedabad
+4,RR,PBKS,170,174,Jaipur
+5,DC,LSG,185,188,Delhi
+6,KKR,CSK,160,165,Kolkata
+7,RCB,MI,210,205,Bengaluru
+8,SRH,RR,195,190,Hyderabad
