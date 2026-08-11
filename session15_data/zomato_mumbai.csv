@@ -1,0 +1,151 @@
+Restaurant_ID,Name,City,Locality,Aggregate_Rating,Votes,Average_Cost_for_Two,Cuisines,Has_Online_Delivery
+MUM_1,Mumbai_Resto_1,Mumbai,Colaba,4.0,2603,1500,"North Indian, Chinese",Yes
+MUM_2,Mumbai_Resto_2,Mumbai,Bandra,4.1,2356,1500,"Italian, Pizza",Yes
+MUM_3,Mumbai_Resto_3,Mumbai,Colaba,3.9,1961,600,"Italian, Pizza",Yes
+MUM_4,Mumbai_Resto_4,Mumbai,Powai,4.5,1846,1500,"Coastal, Seafood",No
+MUM_5,Mumbai_Resto_5,Mumbai,Bandra,3.8,103,2500,"Cafe, Fast Food",Yes
+MUM_6,Mumbai_Resto_6,Mumbai,Colaba,4.6,3168,600,"Italian, Pizza",Yes
+MUM_7,Mumbai_Resto_7,Mumbai,Juhu,4.0,776,1500,"Italian, Pizza",No
+MUM_8,Mumbai_Resto_8,Mumbai,Juhu,4.3,2786,1500,"Continental, Asian",Yes
+MUM_9,Mumbai_Resto_9,Mumbai,Andheri,4.2,1594,1200,"Continental, Asian",Yes
+MUM_10,Mumbai_Resto_10,Mumbai,Colaba,3.7,3220,600,"North Indian, Chinese",Yes
+MUM_11,Mumbai_Resto_11,Mumbai,Lower Parel,4.1,1093,600,"Coastal, Seafood",Yes
+MUM_12,Mumbai_Resto_12,Mumbai,Colaba,4.2,1963,2500,"North Indian, Chinese",Yes
+MUM_13,Mumbai_Resto_13,Mumbai,Bandra,4.1,1826,3500,"Continental, Asian",Yes
+MUM_14,Mumbai_Resto_14,Mumbai,Bandra,3.6,1646,1200,"Cafe, Fast Food",Yes
+MUM_15,Mumbai_Resto_15,Mumbai,Colaba,4.8,1964,800,"Continental, Asian",Yes
+MUM_16,Mumbai_Resto_16,Mumbai,Powai,4.1,2516,1200,"Coastal, Seafood",No
+MUM_17,Mumbai_Resto_17,Mumbai,Juhu,3.8,2787,1200,"Continental, Asian",Yes
+MUM_18,Mumbai_Resto_18,Mumbai,Bandra,4.7,899,800,"Coastal, Seafood",No
+MUM_19,Mumbai_Resto_19,Mumbai,Juhu,4.3,2159,600,"Coastal, Seafood",Yes
+MUM_20,Mumbai_Resto_20,Mumbai,Bandra,3.6,3266,1500,"Coastal, Seafood",No
+MUM_21,Mumbai_Resto_21,Mumbai,Andheri,3.7,2313,800,"Coastal, Seafood",Yes
+MUM_22,Mumbai_Resto_22,Mumbai,Lower Parel,4.0,52,1500,"Coastal, Seafood",Yes
+MUM_23,Mumbai_Resto_23,Mumbai,Bandra,4.2,209,800,"Cafe, Fast Food",Yes
+MUM_24,Mumbai_Resto_24,Mumbai,Juhu,4.3,830,600,"North Indian, Chinese",No
+MUM_25,Mumbai_Resto_25,Mumbai,Andheri,4.5,3241,600,"Italian, Pizza",Yes
+MUM_26,Mumbai_Resto_26,Mumbai,Bandra,4.3,942,1200,"North Indian, Chinese",Yes
+MUM_27,Mumbai_Resto_27,Mumbai,Powai,4.6,2080,2500,"Coastal, Seafood",Yes
+MUM_28,Mumbai_Resto_28,Mumbai,Lower Parel,4.2,3210,600,"Cafe, Fast Food",Yes
+MUM_29,Mumbai_Resto_29,Mumbai,Bandra,3.8,2426,2500,"Continental, Asian",Yes
+MUM_30,Mumbai_Resto_30,Mumbai,Andheri,4.1,629,1200,"Cafe, Fast Food",Yes
+MUM_31,Mumbai_Resto_31,Mumbai,Powai,4.1,1983,1500,"Coastal, Seafood",Yes
+MUM_32,Mumbai_Resto_32,Mumbai,Colaba,3.1,1430,800,"Cafe, Fast Food",Yes
+MUM_33,Mumbai_Resto_33,Mumbai,Andheri,3.9,1340,1500,"Cafe, Fast Food",Yes
+MUM_34,Mumbai_Resto_34,Mumbai,Andheri,4.2,1690,1500,"Coastal, Seafood",Yes
+MUM_35,Mumbai_Resto_35,Mumbai,Powai,3.9,1001,800,"Cafe, Fast Food",Yes
+MUM_36,Mumbai_Resto_36,Mumbai,Andheri,3.8,3444,600,"Italian, Pizza",Yes
+MUM_37,Mumbai_Resto_37,Mumbai,Powai,4.5,2732,2500,"Italian, Pizza",Yes
+MUM_38,Mumbai_Resto_38,Mumbai,Bandra,3.7,1037,3500,"Cafe, Fast Food",Yes
+MUM_39,Mumbai_Resto_39,Mumbai,Powai,4.4,1268,600,"Continental, Asian",Yes
+MUM_40,Mumbai_Resto_40,Mumbai,Powai,3.6,970,1500,"Coastal, Seafood",Yes
+MUM_41,Mumbai_Resto_41,Mumbai,Lower Parel,5.0,2835,2500,"Italian, Pizza",Yes
+MUM_42,Mumbai_Resto_42,Mumbai,Powai,4.0,1405,2500,"Continental, Asian",Yes
+MUM_43,Mumbai_Resto_43,Mumbai,Powai,4.0,219,3500,"Cafe, Fast Food",Yes
+MUM_44,Mumbai_Resto_44,Mumbai,Colaba,4.6,570,1500,"Continental, Asian",Yes
+MUM_45,Mumbai_Resto_45,Mumbai,Bandra,3.9,1536,800,"North Indian, Chinese",Yes
+MUM_46,Mumbai_Resto_46,Mumbai,Lower Parel,4.7,89,800,"Italian, Pizza",Yes
+MUM_47,Mumbai_Resto_47,Mumbai,Colaba,4.2,1610,800,"Cafe, Fast Food",Yes
+MUM_48,Mumbai_Resto_48,Mumbai,Juhu,4.1,3382,1500,"Coastal, Seafood",Yes
+MUM_49,Mumbai_Resto_49,Mumbai,Bandra,4.0,1468,1500,"Cafe, Fast Food",Yes
+MUM_50,Mumbai_Resto_50,Mumbai,Bandra,4.6,1004,800,"Coastal, Seafood",Yes
+MUM_51,Mumbai_Resto_51,Mumbai,Juhu,4.2,3347,2500,"Cafe, Fast Food",No
+MUM_52,Mumbai_Resto_52,Mumbai,Powai,4.3,1033,1500,"Continental, Asian",Yes
+MUM_53,Mumbai_Resto_53,Mumbai,Colaba,4.3,3245,1200,"Continental, Asian",Yes
+MUM_54,Mumbai_Resto_54,Mumbai,Andheri,4.2,1024,1200,"Continental, Asian",Yes
+MUM_55,Mumbai_Resto_55,Mumbai,Lower Parel,4.3,87,1200,"North Indian, Chinese",Yes
+MUM_56,Mumbai_Resto_56,Mumbai,Andheri,4.1,2425,600,"Coastal, Seafood",Yes
+MUM_57,Mumbai_Resto_57,Mumbai,Juhu,4.1,1324,800,"Continental, Asian",Yes
+MUM_58,Mumbai_Resto_58,Mumbai,Bandra,3.7,1249,600,"North Indian, Chinese",Yes
+MUM_59,Mumbai_Resto_59,Mumbai,Bandra,4.2,1675,600,"Coastal, Seafood",Yes
+MUM_60,Mumbai_Resto_60,Mumbai,Lower Parel,3.4,963,1200,"Cafe, Fast Food",Yes
+MUM_61,Mumbai_Resto_61,Mumbai,Bandra,4.2,503,1200,"North Indian, Chinese",Yes
+MUM_62,Mumbai_Resto_62,Mumbai,Bandra,4.0,86,600,"Italian, Pizza",Yes
+MUM_63,Mumbai_Resto_63,Mumbai,Lower Parel,4.2,3437,1500,"North Indian, Chinese",Yes
+MUM_64,Mumbai_Resto_64,Mumbai,Colaba,3.7,1761,800,"North Indian, Chinese",No
+MUM_65,Mumbai_Resto_65,Mumbai,Colaba,3.3,3070,2500,"Coastal, Seafood",Yes
+MUM_66,Mumbai_Resto_66,Mumbai,Lower Parel,4.0,845,3500,"Cafe, Fast Food",Yes
+MUM_67,Mumbai_Resto_67,Mumbai,Juhu,3.7,1022,600,"Italian, Pizza",Yes
+MUM_68,Mumbai_Resto_68,Mumbai,Bandra,3.4,642,1200,"Continental, Asian",Yes
+MUM_69,Mumbai_Resto_69,Mumbai,Bandra,4.4,1187,600,"Continental, Asian",No
+MUM_70,Mumbai_Resto_70,Mumbai,Juhu,4.7,3161,1200,"North Indian, Chinese",Yes
+MUM_71,Mumbai_Resto_71,Mumbai,Colaba,3.8,1374,1200,"Coastal, Seafood",No
+MUM_72,Mumbai_Resto_72,Mumbai,Powai,4.1,2321,800,"Coastal, Seafood",Yes
+MUM_73,Mumbai_Resto_73,Mumbai,Powai,4.0,367,1200,"Continental, Asian",No
+MUM_74,Mumbai_Resto_74,Mumbai,Powai,3.8,2446,800,"Italian, Pizza",Yes
+MUM_75,Mumbai_Resto_75,Mumbai,Colaba,4.4,2212,600,"Cafe, Fast Food",Yes
+MUM_76,Mumbai_Resto_76,Mumbai,Colaba,4.5,2795,1200,"Italian, Pizza",Yes
+MUM_77,Mumbai_Resto_77,Mumbai,Juhu,3.8,1396,800,"Cafe, Fast Food",Yes
+MUM_78,Mumbai_Resto_78,Mumbai,Bandra,4.1,1641,1200,"Continental, Asian",Yes
+MUM_79,Mumbai_Resto_79,Mumbai,Juhu,4.6,3161,800,"Cafe, Fast Food",Yes
+MUM_80,Mumbai_Resto_80,Mumbai,Juhu,4.4,1939,3500,"Coastal, Seafood",Yes
+MUM_81,Mumbai_Resto_81,Mumbai,Colaba,4.4,2137,600,"North Indian, Chinese",Yes
+MUM_82,Mumbai_Resto_82,Mumbai,Powai,4.6,2046,1200,"North Indian, Chinese",Yes
+MUM_83,Mumbai_Resto_83,Mumbai,Andheri,4.6,1822,1200,"Continental, Asian",Yes
+MUM_84,Mumbai_Resto_84,Mumbai,Bandra,4.5,1362,800,"Coastal, Seafood",Yes
+MUM_85,Mumbai_Resto_85,Mumbai,Colaba,4.2,1335,3500,"Italian, Pizza",Yes
+MUM_86,Mumbai_Resto_86,Mumbai,Powai,3.9,265,1500,"Coastal, Seafood",Yes
+MUM_87,Mumbai_Resto_87,Mumbai,Andheri,4.1,3268,1200,"North Indian, Chinese",Yes
+MUM_88,Mumbai_Resto_88,Mumbai,Andheri,3.9,2433,1500,"North Indian, Chinese",Yes
+MUM_89,Mumbai_Resto_89,Mumbai,Colaba,3.3,3289,3500,"Coastal, Seafood",Yes
+MUM_90,Mumbai_Resto_90,Mumbai,Lower Parel,4.0,2189,2500,"Coastal, Seafood",Yes
+MUM_91,Mumbai_Resto_91,Mumbai,Bandra,4.2,2450,1500,"North Indian, Chinese",Yes
+MUM_92,Mumbai_Resto_92,Mumbai,Andheri,3.9,2668,1500,"Italian, Pizza",Yes
+MUM_93,Mumbai_Resto_93,Mumbai,Colaba,4.0,2913,600,"Continental, Asian",Yes
+MUM_94,Mumbai_Resto_94,Mumbai,Colaba,4.0,1754,600,"Continental, Asian",Yes
+MUM_95,Mumbai_Resto_95,Mumbai,Powai,4.6,2878,1200,"Coastal, Seafood",Yes
+MUM_96,Mumbai_Resto_96,Mumbai,Lower Parel,4.0,412,600,"Continental, Asian",No
+MUM_97,Mumbai_Resto_97,Mumbai,Bandra,4.6,2654,1200,"North Indian, Chinese",Yes
+MUM_98,Mumbai_Resto_98,Mumbai,Juhu,3.0,3466,800,"North Indian, Chinese",Yes
+MUM_99,Mumbai_Resto_99,Mumbai,Powai,4.6,1766,800,"Coastal, Seafood",Yes
+MUM_100,Mumbai_Resto_100,Mumbai,Andheri,4.6,1243,1500,"Coastal, Seafood",Yes
+MUM_101,Mumbai_Resto_101,Mumbai,Andheri,4.5,405,2500,"Coastal, Seafood",Yes
+MUM_102,Mumbai_Resto_102,Mumbai,Powai,3.3,240,600,"Italian, Pizza",No
+MUM_103,Mumbai_Resto_103,Mumbai,Colaba,4.5,2519,1200,"Continental, Asian",Yes
+MUM_104,Mumbai_Resto_104,Mumbai,Andheri,4.1,749,2500,"Coastal, Seafood",Yes
+MUM_105,Mumbai_Resto_105,Mumbai,Lower Parel,3.1,2104,600,"Cafe, Fast Food",No
+MUM_106,Mumbai_Resto_106,Mumbai,Bandra,4.6,2230,1500,"Cafe, Fast Food",Yes
+MUM_107,Mumbai_Resto_107,Mumbai,Lower Parel,4.7,606,800,"North Indian, Chinese",Yes
+MUM_108,Mumbai_Resto_108,Mumbai,Andheri,3.3,875,800,"Continental, Asian",Yes
+MUM_109,Mumbai_Resto_109,Mumbai,Juhu,4.2,2858,3500,"Coastal, Seafood",Yes
+MUM_110,Mumbai_Resto_110,Mumbai,Bandra,4.7,1104,800,"Cafe, Fast Food",Yes
+MUM_111,Mumbai_Resto_111,Mumbai,Bandra,4.6,2632,1200,"Continental, Asian",No
+MUM_112,Mumbai_Resto_112,Mumbai,Powai,4.4,475,1500,"North Indian, Chinese",Yes
+MUM_113,Mumbai_Resto_113,Mumbai,Powai,3.0,2769,600,"Italian, Pizza",Yes
+MUM_114,Mumbai_Resto_114,Mumbai,Juhu,4.4,2460,1200,"Continental, Asian",Yes
+MUM_115,Mumbai_Resto_115,Mumbai,Colaba,4.0,1624,3500,"Continental, Asian",Yes
+MUM_116,Mumbai_Resto_116,Mumbai,Bandra,4.5,2179,600,"Italian, Pizza",Yes
+MUM_117,Mumbai_Resto_117,Mumbai,Juhu,4.2,2453,2500,"Continental, Asian",Yes
+MUM_118,Mumbai_Resto_118,Mumbai,Powai,4.1,3379,1200,"North Indian, Chinese",Yes
+MUM_119,Mumbai_Resto_119,Mumbai,Powai,4.4,638,1200,"North Indian, Chinese",Yes
+MUM_120,Mumbai_Resto_120,Mumbai,Bandra,4.0,2062,1200,"Italian, Pizza",Yes
+MUM_121,Mumbai_Resto_121,Mumbai,Lower Parel,4.1,1597,800,"Coastal, Seafood",Yes
+MUM_122,Mumbai_Resto_122,Mumbai,Andheri,3.9,344,2500,"Cafe, Fast Food",Yes
+MUM_123,Mumbai_Resto_123,Mumbai,Powai,3.5,2035,2500,"Coastal, Seafood",Yes
+MUM_124,Mumbai_Resto_124,Mumbai,Colaba,4.3,1297,1200,"Continental, Asian",Yes
+MUM_125,Mumbai_Resto_125,Mumbai,Colaba,3.8,1598,1500,"Cafe, Fast Food",No
+MUM_126,Mumbai_Resto_126,Mumbai,Powai,4.0,3167,1200,"Italian, Pizza",Yes
+MUM_127,Mumbai_Resto_127,Mumbai,Lower Parel,4.2,1740,1200,"Italian, Pizza",Yes
+MUM_128,Mumbai_Resto_128,Mumbai,Lower Parel,3.3,1186,1200,"Cafe, Fast Food",Yes
+MUM_129,Mumbai_Resto_129,Mumbai,Juhu,3.4,1306,1200,"North Indian, Chinese",Yes
+MUM_130,Mumbai_Resto_130,Mumbai,Colaba,4.0,2114,1200,"Cafe, Fast Food",Yes
+MUM_131,Mumbai_Resto_131,Mumbai,Juhu,4.3,409,1500,"Continental, Asian",Yes
+MUM_132,Mumbai_Resto_132,Mumbai,Colaba,4.4,3344,1200,"North Indian, Chinese",Yes
+MUM_133,Mumbai_Resto_133,Mumbai,Andheri,3.5,2963,600,"Italian, Pizza",Yes
+MUM_134,Mumbai_Resto_134,Mumbai,Andheri,4.4,749,600,"Cafe, Fast Food",Yes
+MUM_135,Mumbai_Resto_135,Mumbai,Bandra,4.0,497,800,"Coastal, Seafood",Yes
+MUM_136,Mumbai_Resto_136,Mumbai,Juhu,3.7,2953,1500,"Coastal, Seafood",No
+MUM_137,Mumbai_Resto_137,Mumbai,Powai,3.8,2462,1200,"Continental, Asian",Yes
+MUM_138,Mumbai_Resto_138,Mumbai,Juhu,4.4,724,1200,"Coastal, Seafood",Yes
+MUM_139,Mumbai_Resto_139,Mumbai,Powai,4.2,1057,1200,"Cafe, Fast Food",Yes
+MUM_140,Mumbai_Resto_140,Mumbai,Lower Parel,4.1,1399,1200,"Cafe, Fast Food",Yes
+MUM_141,Mumbai_Resto_141,Mumbai,Juhu,4.2,2564,800,"Coastal, Seafood",Yes
+MUM_142,Mumbai_Resto_142,Mumbai,Lower Parel,4.5,2511,1200,"Cafe, Fast Food",Yes
+MUM_143,Mumbai_Resto_143,Mumbai,Andheri,4.1,635,1500,"Continental, Asian",No
+MUM_144,Mumbai_Resto_144,Mumbai,Andheri,4.1,1306,2500,"North Indian, Chinese",Yes
+MUM_145,Mumbai_Resto_145,Mumbai,Bandra,4.6,1297,800,"Continental, Asian",Yes
+MUM_146,Mumbai_Resto_146,Mumbai,Juhu,4.0,1043,600,"Continental, Asian",Yes
+MUM_147,Mumbai_Resto_147,Mumbai,Lower Parel,4.3,1485,600,"Cafe, Fast Food",Yes
+MUM_148,Mumbai_Resto_148,Mumbai,Powai,3.9,621,600,"North Indian, Chinese",Yes
+MUM_149,Mumbai_Resto_149,Mumbai,Andheri,3.9,2432,1200,"Cafe, Fast Food",Yes
+MUM_150,Mumbai_Resto_150,Mumbai,Andheri,4.1,1295,800,"Italian, Pizza",Yes
