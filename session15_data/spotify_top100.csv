@@ -1,0 +1,101 @@
+Rank,Title,Artist,Genre,BPM,Energy,Danceability,Loudness,Liveness,Valence,Length,Acousticness,Popularity
+1,Song_1,Post Malone,,166,70,44,-11,21,10,154,,Unknown
+2,Song_2,The Weeknd,R&B,70,62,83,-7,75,30,241,83.0,84
+3,Song_3,Ed Sheeran,Latin,88,97,89,-8,49,64,210,74.0,77
+4,Song_4,Post Malone,Rock,71,62,37,-13,8,15,171,3.0,99
+5,Song_5,Bad Bunny,Dance/Electronic,122,43,82,-15,40,90,298,78.0,67
+6,Song_6,Billie Eilish,Latin,113,50,89,-13,74,78,219,5.0,98
+7,Song_7,Ed Sheeran,Pop,159,77,34,-12,35,14,150,50.0,99
+8,Song_8,Ed Sheeran,Pop,101,49,97,-14,23,12,282,61.0,73
+9,Song_9,Post Malone,Pop,139,37,35,-15,65,62,161,56.0,91
+10,Song_10,Drake,Hip-Hop,101,36,76,-9,58,32,239,65.0,97
+11,Song_11,Bad Bunny,Hip-Hop,137,96,84,-8,43,62,195,,92
+12,Song_12,Post Malone,Pop,124,46,69,-9,78,46,183,78.0,82
+13,Song_13,Bad Bunny,Rock,144,62,81,-2,23,83,227,74.0,74
+14,Song_14,Bad Bunny,Hip-Hop,125,77,45,-11,43,83,194,7.0,92
+15,Song_15,Billie Eilish,Pop,86,88,42,-4,71,92,222,25.0,84
+16,Song_16,Ed Sheeran,Hip-Hop,107,51,59,-15,49,26,175,50.0,Unknown
+17,Song_17,The Weeknd,Pop,93,59,48,-9,17,94,196,44.0,76
+18,Song_18,Billie Eilish,Rock,138,67,46,-3,62,87,270,43.0,92
+19,Song_19,Billie Eilish,Pop,167,80,92,-9,24,82,205,4.0,61
+20,Song_20,Bad Bunny,,139,83,48,-7,76,10,243,69.0,73
+21,Song_21,Ariana Grande,R&B,155,37,87,-13,65,60,256,,99
+22,Song_22,Ed Sheeran,Pop,80,56,84,-7,43,54,212,25.0,99
+23,Song_23,Drake,Pop,85,56,91,-2,5,86,197,67.0,98
+24,Song_24,Billie Eilish,Rock,166,50,52,-15,7,13,210,18.0,65
+25,Song_25,The Weeknd,R&B,142,59,38,-15,66,71,230,83.0,65
+26,Song_26,Ariana Grande,R&B,128,57,41,-2,67,74,175,19.0,62
+27,Song_27,Ariana Grande,R&B,139,93,30,-12,29,41,185,11.0,66
+28,Song_28,Drake,Pop,149,98,87,-7,60,43,150,46.0,67
+29,Song_29,Billie Eilish,Hip-Hop,162,90,30,-10,37,81,157,0.0,74
+30,Song_30,The Weeknd,Pop,72,77,63,-3,42,48,262,89.0,88
+31,Song_31,Ed Sheeran,Rock,89,48,77,-5,10,35,248,,Unknown
+32,Song_32,Taylor Swift,Dance/Electronic,128,33,30,-13,62,43,196,13.0,92
+33,Song_33,The Weeknd,Hip-Hop,105,64,45,-15,48,63,276,63.0,89
+34,Song_34,Drake,Pop,88,93,90,-12,49,12,205,37.0,98
+35,Song_35,Ariana Grande,Hip-Hop,159,78,93,-4,36,59,163,36.0,86
+36,Song_36,Ed Sheeran,Hip-Hop,136,46,92,-3,49,21,177,10.0,95
+37,Song_37,The Weeknd,R&B,88,73,98,-7,65,74,227,76.0,88
+38,Song_38,Taylor Swift,Dance/Electronic,89,59,51,-13,51,63,279,2.0,97
+39,Song_39,Taylor Swift,Rock,165,75,96,-4,25,14,258,32.0,92
+40,Song_40,Bad Bunny,Hip-Hop,140,35,55,-7,79,66,163,5.0,96
+41,Song_41,Bad Bunny,Pop,121,66,45,-9,40,26,205,,86
+42,Song_42,Post Malone,R&B,174,53,80,-4,23,56,264,49.0,92
+43,Song_43,Drake,R&B,102,75,86,-2,24,32,156,9.0,63
+44,Song_44,Billie Eilish,Dance/Electronic,109,82,58,-12,61,88,152,4.0,81
+45,Song_45,The Weeknd,R&B,108,89,98,-13,22,94,260,22.0,61
+46,Song_46,The Weeknd,Hip-Hop,151,92,76,-6,51,23,256,9.0,Unknown
+47,Song_47,Billie Eilish,Hip-Hop,173,61,91,-11,53,75,167,43.0,69
+48,Song_48,Post Malone,Hip-Hop,70,62,98,-11,18,84,187,1.0,64
+49,Song_49,Ariana Grande,Pop,80,96,45,-13,19,60,264,12.0,69
+50,Song_50,Ariana Grande,Pop,161,47,77,-4,35,47,164,39.0,92
+51,Song_51,Post Malone,Pop,126,54,68,-7,5,73,268,,97
+52,Song_52,Ariana Grande,Dance/Electronic,158,83,62,-12,58,47,177,1.0,72
+53,Song_53,Bad Bunny,Hip-Hop,119,87,52,-5,7,59,188,83.0,90
+54,Song_54,The Weeknd,Hip-Hop,92,96,39,-11,20,91,166,64.0,95
+55,Song_55,Post Malone,Latin,100,75,98,-12,61,39,235,62.0,83
+56,Song_56,The Weeknd,Pop,163,53,63,-11,79,88,275,72.0,74
+57,Song_57,Billie Eilish,Hip-Hop,111,61,81,-9,16,60,193,16.0,88
+58,Song_58,Taylor Swift,R&B,168,76,39,-7,78,72,174,8.0,67
+59,Song_59,Bad Bunny,Pop,76,52,48,-9,20,61,294,74.0,64
+60,Song_60,Ed Sheeran,Pop,85,95,87,-3,76,47,162,14.0,88
+61,Song_61,Bad Bunny,Pop,159,56,30,-11,28,88,174,,Unknown
+62,Song_62,Post Malone,Pop,129,31,98,-6,32,39,217,23.0,63
+63,Song_63,Ed Sheeran,Latin,71,46,33,-6,12,60,287,37.0,71
+64,Song_64,Taylor Swift,Rock,70,62,45,-9,40,90,216,34.0,61
+65,Song_65,Post Malone,Dance/Electronic,117,38,53,-2,12,14,258,48.0,86
+66,Song_66,Drake,Rock,81,72,31,-6,62,38,295,68.0,90
+67,Song_67,The Weeknd,Rock,138,77,61,-11,64,13,260,61.0,95
+68,Song_68,Taylor Swift,Pop,106,68,53,-13,54,19,260,59.0,95
+69,Song_69,The Weeknd,Rock,101,71,41,-9,32,65,183,49.0,85
+70,Song_70,Ariana Grande,Hip-Hop,78,55,79,-3,45,26,260,77.0,86
+71,Song_71,Drake,Rock,174,79,64,-5,68,83,157,,64
+72,Song_72,Drake,Rock,168,54,62,-5,31,26,262,74.0,79
+73,Song_73,Taylor Swift,Hip-Hop,88,53,62,-14,67,93,232,8.0,70
+74,Song_74,Drake,Pop,117,42,90,-4,21,78,191,33.0,69
+75,Song_75,Ed Sheeran,Pop,149,89,80,-7,77,43,250,75.0,99
+76,Song_76,Drake,Hip-Hop,72,36,72,-6,37,15,155,34.0,Unknown
+77,Song_77,The Weeknd,Rock,89,86,41,-6,33,62,175,0.0,97
+78,Song_78,The Weeknd,Rock,93,65,96,-4,17,75,213,39.0,65
+79,Song_79,Post Malone,Pop,123,74,94,-15,50,86,208,63.0,67
+80,Song_80,The Weeknd,Hip-Hop,102,49,62,-3,39,52,258,21.0,82
+81,Song_81,Post Malone,Hip-Hop,93,94,69,-10,10,84,270,,85
+82,Song_82,The Weeknd,Pop,144,37,72,-9,73,32,182,59.0,71
+83,Song_83,Ed Sheeran,Pop,141,45,73,-2,51,64,299,63.0,85
+84,Song_84,Billie Eilish,Hip-Hop,105,43,58,-3,29,89,170,71.0,72
+85,Song_85,Post Malone,Latin,107,44,42,-8,70,84,219,10.0,99
+86,Song_86,Bad Bunny,Hip-Hop,173,95,41,-6,14,25,261,13.0,77
+87,Song_87,Ariana Grande,Hip-Hop,153,61,75,-7,60,17,153,59.0,84
+88,Song_88,Taylor Swift,R&B,168,92,31,-14,34,13,243,29.0,92
+89,Song_89,The Weeknd,Hip-Hop,158,80,64,-5,9,13,224,34.0,99
+90,Song_90,Drake,,168,54,37,-6,37,65,211,84.0,71
+91,Song_91,Billie Eilish,,94,87,55,-14,69,34,243,,Unknown
+92,Song_92,The Weeknd,Pop,162,92,63,-11,22,76,244,36.0,95
+93,Song_93,Drake,Hip-Hop,87,91,36,-3,53,76,204,4.0,63
+94,Song_94,Ariana Grande,Hip-Hop,179,51,97,-11,15,36,286,82.0,64
+95,Song_95,Ariana Grande,Pop,151,87,87,-10,30,41,280,77.0,96
+96,Song_96,Ariana Grande,Pop,135,87,58,-13,67,59,180,25.0,67
+97,Song_97,Drake,Dance/Electronic,123,78,65,-8,63,70,189,61.0,87
+98,Song_98,The Weeknd,Hip-Hop,104,81,50,-3,31,60,185,3.0,90
+99,Song_99,Ariana Grande,Pop,149,71,65,-15,53,28,155,88.0,68
+100,Song_100,Ed Sheeran,Pop,130,99,39,-10,37,30,215,41.0,88
