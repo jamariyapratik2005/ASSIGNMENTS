@@ -1,0 +1,151 @@
+Restaurant_ID,Name,City,Locality,Aggregate_Rating,Votes,Average_Cost_for_Two,Cuisines,Has_Online_Delivery
+DEL_1,Delhi_Resto_1,Delhi,Connaught Place,4.1,165,600,"North Indian, Mughlai",Yes
+DEL_2,Delhi_Resto_2,Delhi,Rajouri Garden,4.3,391,1200,Continental,No
+DEL_3,Delhi_Resto_3,Delhi,CP,3.8,1239,600,South Indian,No
+DEL_4,Delhi_Resto_4,Delhi,Connaught Place,3.3,1709,600,"Chinese, Momos",Yes
+DEL_5,Delhi_Resto_5,Delhi,Connaught Place,3.0,1637,600,Continental,Yes
+DEL_6,Delhi_Resto_6,Delhi,CP,3.8,158,400,South Indian,No
+DEL_7,Delhi_Resto_7,Delhi,Dwarka,3.9,1929,600,"Chinese, Momos",Yes
+DEL_8,Delhi_Resto_8,Delhi,Connaught Place,3.3,1314,600,"North Indian, Mughlai",Yes
+DEL_9,Delhi_Resto_9,Delhi,Rajouri Garden,4.2,544,400,South Indian,No
+DEL_10,Delhi_Resto_10,Delhi,Saket,3.6,478,400,"Chinese, Momos",Yes
+DEL_11,Delhi_Resto_11,Delhi,Connaught Place,3.0,1953,1200,"North Indian, Mughlai",Yes
+DEL_12,Delhi_Resto_12,Delhi,Rajouri Garden,4.4,1157,400,Continental,Yes
+DEL_13,Delhi_Resto_13,Delhi,Hauz Khas,4.4,1536,600,Continental,No
+DEL_14,Delhi_Resto_14,Delhi,Rajouri Garden,2.8,1277,400,Continental,Yes
+DEL_15,Delhi_Resto_15,Delhi,Saket,3.5,1885,1800,Continental,Yes
+DEL_16,Delhi_Resto_16,Delhi,Rajouri Garden,3.5,903,400,"Street Food, Fast Food",Yes
+DEL_17,Delhi_Resto_17,Delhi,CP,4.6,1919,600,South Indian,Yes
+DEL_18,Delhi_Resto_18,Delhi,Saket,3.8,1544,1200,South Indian,Yes
+DEL_19,Delhi_Resto_19,Delhi,Dwarka,3.1,502,1200,"Street Food, Fast Food",No
+DEL_20,Delhi_Resto_20,Delhi,Hauz Khas,4.2,1063,400,"Chinese, Momos",Yes
+DEL_21,Delhi_Resto_21,Delhi,CP,3.2,1458,1200,"Chinese, Momos",Yes
+DEL_22,Delhi_Resto_22,Delhi,Dwarka,3.7,1949,600,Continental,No
+DEL_23,Delhi_Resto_23,Delhi,Rajouri Garden,3.4,331,600,"North Indian, Mughlai",Yes
+DEL_24,Delhi_Resto_24,Delhi,Saket,3.5,260,400,"Chinese, Momos",No
+DEL_25,Delhi_Resto_25,Delhi,Hauz Khas,4.3,1784,400,"North Indian, Mughlai",Yes
+DEL_26,Delhi_Resto_26,Delhi,CP,4.6,952,900,South Indian,Yes
+DEL_27,Delhi_Resto_27,Delhi,Dwarka,3.2,1119,600,"North Indian, Mughlai",Yes
+DEL_28,Delhi_Resto_28,Delhi,Dwarka,4.1,966,600,South Indian,No
+DEL_29,Delhi_Resto_29,Delhi,Hauz Khas,3.4,141,900,"Street Food, Fast Food",Yes
+DEL_30,Delhi_Resto_30,Delhi,Rajouri Garden,3.4,1066,900,"Street Food, Fast Food",Yes
+DEL_31,Delhi_Resto_31,Delhi,Hauz Khas,4.0,1446,400,Continental,Yes
+DEL_32,Delhi_Resto_32,Delhi,Dwarka,3.3,529,900,"Chinese, Momos",Yes
+DEL_33,Delhi_Resto_33,Delhi,Connaught Place,4.0,961,400,Continental,Yes
+DEL_34,Delhi_Resto_34,Delhi,CP,4.2,627,900,South Indian,No
+DEL_35,Delhi_Resto_35,Delhi,Hauz Khas,3.6,263,900,Continental,Yes
+DEL_36,Delhi_Resto_36,Delhi,Dwarka,4.5,631,1800,"North Indian, Mughlai",No
+DEL_37,Delhi_Resto_37,Delhi,Rajouri Garden,3.2,343,400,South Indian,Yes
+DEL_38,Delhi_Resto_38,Delhi,Dwarka,4.5,595,400,"Street Food, Fast Food",Yes
+DEL_39,Delhi_Resto_39,Delhi,Rajouri Garden,2.8,1065,400,"Chinese, Momos",Yes
+DEL_40,Delhi_Resto_40,Delhi,Hauz Khas,5.0,238,400,South Indian,Yes
+DEL_41,Delhi_Resto_41,Delhi,Rajouri Garden,3.6,1067,400,South Indian,No
+DEL_42,Delhi_Resto_42,Delhi,Saket,3.2,1686,1800,"North Indian, Mughlai",No
+DEL_43,Delhi_Resto_43,Delhi,Saket,3.7,1471,400,"Chinese, Momos",Yes
+DEL_44,Delhi_Resto_44,Delhi,Saket,3.3,1490,400,"Street Food, Fast Food",Yes
+DEL_45,Delhi_Resto_45,Delhi,Connaught Place,4.0,1430,900,South Indian,Yes
+DEL_46,Delhi_Resto_46,Delhi,Hauz Khas,4.5,1073,600,South Indian,No
+DEL_47,Delhi_Resto_47,Delhi,Dwarka,3.3,616,900,"North Indian, Mughlai",Yes
+DEL_48,Delhi_Resto_48,Delhi,Dwarka,4.1,1965,400,Continental,Yes
+DEL_49,Delhi_Resto_49,Delhi,Connaught Place,3.0,1808,600,"Street Food, Fast Food",No
+DEL_50,Delhi_Resto_50,Delhi,Rajouri Garden,4.3,1788,400,"Chinese, Momos",Yes
+DEL_51,Delhi_Resto_51,Delhi,Connaught Place,4.0,1044,400,South Indian,Yes
+DEL_52,Delhi_Resto_52,Delhi,Rajouri Garden,4.3,1123,1800,South Indian,Yes
+DEL_53,Delhi_Resto_53,Delhi,Rajouri Garden,3.7,1877,400,"Street Food, Fast Food",No
+DEL_54,Delhi_Resto_54,Delhi,CP,3.6,1264,600,Continental,Yes
+DEL_55,Delhi_Resto_55,Delhi,Dwarka,4.2,1154,600,South Indian,Yes
+DEL_56,Delhi_Resto_56,Delhi,Saket,3.1,727,600,"Street Food, Fast Food",Yes
+DEL_57,Delhi_Resto_57,Delhi,Rajouri Garden,2.9,161,1200,"North Indian, Mughlai",Yes
+DEL_58,Delhi_Resto_58,Delhi,CP,3.8,1676,400,Continental,Yes
+DEL_59,Delhi_Resto_59,Delhi,Dwarka,3.6,1434,900,"Chinese, Momos",Yes
+DEL_60,Delhi_Resto_60,Delhi,Saket,4.1,1185,1800,South Indian,Yes
+DEL_61,Delhi_Resto_61,Delhi,Rajouri Garden,4.3,1073,600,"Street Food, Fast Food",Yes
+DEL_62,Delhi_Resto_62,Delhi,Rajouri Garden,4.1,1959,1800,"North Indian, Mughlai",Yes
+DEL_63,Delhi_Resto_63,Delhi,Connaught Place,4.3,565,400,"Chinese, Momos",Yes
+DEL_64,Delhi_Resto_64,Delhi,Connaught Place,4.0,1043,600,"Street Food, Fast Food",No
+DEL_65,Delhi_Resto_65,Delhi,Dwarka,4.0,256,400,"Street Food, Fast Food",Yes
+DEL_66,Delhi_Resto_66,Delhi,Saket,3.7,1207,900,"Chinese, Momos",No
+DEL_67,Delhi_Resto_67,Delhi,Rajouri Garden,4.0,1858,2500,"North Indian, Mughlai",No
+DEL_68,Delhi_Resto_68,Delhi,Dwarka,3.9,1795,400,"North Indian, Mughlai",Yes
+DEL_69,Delhi_Resto_69,Delhi,Dwarka,4.0,1522,900,Continental,Yes
+DEL_70,Delhi_Resto_70,Delhi,Hauz Khas,3.7,851,400,South Indian,Yes
+DEL_71,Delhi_Resto_71,Delhi,Connaught Place,4.2,900,600,"Chinese, Momos",Yes
+DEL_72,Delhi_Resto_72,Delhi,Saket,3.4,434,600,"Chinese, Momos",Yes
+DEL_73,Delhi_Resto_73,Delhi,Rajouri Garden,3.8,231,2500,"Chinese, Momos",Yes
+DEL_74,Delhi_Resto_74,Delhi,Dwarka,4.5,67,900,"North Indian, Mughlai",Yes
+DEL_75,Delhi_Resto_75,Delhi,Rajouri Garden,3.3,971,600,South Indian,No
+DEL_76,Delhi_Resto_76,Delhi,Hauz Khas,2.7,1825,400,Continental,Yes
+DEL_77,Delhi_Resto_77,Delhi,Saket,4.0,217,400,"Street Food, Fast Food",No
+DEL_78,Delhi_Resto_78,Delhi,Dwarka,3.7,1110,400,"Street Food, Fast Food",Yes
+DEL_79,Delhi_Resto_79,Delhi,Rajouri Garden,4.3,970,400,"Chinese, Momos",No
+DEL_80,Delhi_Resto_80,Delhi,Connaught Place,3.7,1073,1200,South Indian,Yes
+DEL_81,Delhi_Resto_81,Delhi,Hauz Khas,3.5,302,600,"North Indian, Mughlai",Yes
+DEL_82,Delhi_Resto_82,Delhi,Saket,3.8,1172,600,South Indian,Yes
+DEL_83,Delhi_Resto_83,Delhi,Hauz Khas,4.3,612,400,South Indian,Yes
+DEL_84,Delhi_Resto_84,Delhi,Connaught Place,4.1,545,1200,"North Indian, Mughlai",Yes
+DEL_85,Delhi_Resto_85,Delhi,Saket,2.6,1274,900,"Chinese, Momos",No
+DEL_86,Delhi_Resto_86,Delhi,Hauz Khas,3.9,555,400,South Indian,Yes
+DEL_87,Delhi_Resto_87,Delhi,CP,3.9,1568,900,"Street Food, Fast Food",Yes
+DEL_88,Delhi_Resto_88,Delhi,Connaught Place,3.8,1781,600,"North Indian, Mughlai",No
+DEL_89,Delhi_Resto_89,Delhi,Connaught Place,3.5,1794,400,Continental,No
+DEL_90,Delhi_Resto_90,Delhi,Connaught Place,4.4,365,600,"Chinese, Momos",Yes
+DEL_91,Delhi_Resto_91,Delhi,CP,4.4,727,600,"North Indian, Mughlai",Yes
+DEL_92,Delhi_Resto_92,Delhi,CP,2.7,1108,400,Continental,Yes
+DEL_93,Delhi_Resto_93,Delhi,Rajouri Garden,3.4,529,1800,Continental,Yes
+DEL_94,Delhi_Resto_94,Delhi,Dwarka,3.7,929,1200,South Indian,No
+DEL_95,Delhi_Resto_95,Delhi,Hauz Khas,4.3,1941,900,South Indian,No
+DEL_96,Delhi_Resto_96,Delhi,Rajouri Garden,3.8,795,600,South Indian,No
+DEL_97,Delhi_Resto_97,Delhi,Hauz Khas,3.5,565,600,"North Indian, Mughlai",No
+DEL_98,Delhi_Resto_98,Delhi,Dwarka,4.2,191,900,"North Indian, Mughlai",Yes
+DEL_99,Delhi_Resto_99,Delhi,CP,3.7,1723,600,"Chinese, Momos",No
+DEL_100,Delhi_Resto_100,Delhi,Dwarka,3.7,623,400,South Indian,No
+DEL_101,Delhi_Resto_101,Delhi,CP,3.8,1968,600,Continental,Yes
+DEL_102,Delhi_Resto_102,Delhi,Dwarka,4.1,188,1200,"Street Food, Fast Food",No
+DEL_103,Delhi_Resto_103,Delhi,Rajouri Garden,3.6,1241,600,"Chinese, Momos",Yes
+DEL_104,Delhi_Resto_104,Delhi,Saket,4.1,89,400,"North Indian, Mughlai",Yes
+DEL_105,Delhi_Resto_105,Delhi,Rajouri Garden,3.8,944,900,"Chinese, Momos",No
+DEL_106,Delhi_Resto_106,Delhi,Hauz Khas,3.3,1870,400,"Chinese, Momos",Yes
+DEL_107,Delhi_Resto_107,Delhi,Rajouri Garden,3.8,1372,400,"Chinese, Momos",Yes
+DEL_108,Delhi_Resto_108,Delhi,Connaught Place,3.3,1931,400,"Chinese, Momos",Yes
+DEL_109,Delhi_Resto_109,Delhi,Hauz Khas,3.8,240,600,"Street Food, Fast Food",Yes
+DEL_110,Delhi_Resto_110,Delhi,Dwarka,4.2,435,900,South Indian,No
+DEL_111,Delhi_Resto_111,Delhi,Hauz Khas,3.3,693,600,Continental,Yes
+DEL_112,Delhi_Resto_112,Delhi,Saket,4.0,1162,400,"Chinese, Momos",Yes
+DEL_113,Delhi_Resto_113,Delhi,CP,3.4,1129,1200,"Chinese, Momos",No
+DEL_114,Delhi_Resto_114,Delhi,Dwarka,3.9,571,1200,"Chinese, Momos",Yes
+DEL_115,Delhi_Resto_115,Delhi,Hauz Khas,4.2,1367,1200,South Indian,Yes
+DEL_116,Delhi_Resto_116,Delhi,Dwarka,2.7,1027,400,"North Indian, Mughlai",Yes
+DEL_117,Delhi_Resto_117,Delhi,Dwarka,3.2,1170,600,"North Indian, Mughlai",No
+DEL_118,Delhi_Resto_118,Delhi,Dwarka,3.6,956,2500,"Street Food, Fast Food",Yes
+DEL_119,Delhi_Resto_119,Delhi,CP,4.0,897,900,"North Indian, Mughlai",Yes
+DEL_120,Delhi_Resto_120,Delhi,Rajouri Garden,3.7,1757,400,"Chinese, Momos",Yes
+DEL_121,Delhi_Resto_121,Delhi,Dwarka,3.8,48,400,"Chinese, Momos",Yes
+DEL_122,Delhi_Resto_122,Delhi,Connaught Place,4.8,461,600,"Chinese, Momos",Yes
+DEL_123,Delhi_Resto_123,Delhi,Saket,3.2,1738,1800,"Street Food, Fast Food",Yes
+DEL_124,Delhi_Resto_124,Delhi,CP,4.4,769,600,"Chinese, Momos",Yes
+DEL_125,Delhi_Resto_125,Delhi,Hauz Khas,3.6,1403,600,"North Indian, Mughlai",No
+DEL_126,Delhi_Resto_126,Delhi,CP,4.1,212,400,South Indian,Yes
+DEL_127,Delhi_Resto_127,Delhi,Hauz Khas,4.9,142,900,South Indian,No
+DEL_128,Delhi_Resto_128,Delhi,CP,4.1,1236,1200,Continental,No
+DEL_129,Delhi_Resto_129,Delhi,Hauz Khas,4.0,510,600,"North Indian, Mughlai",No
+DEL_130,Delhi_Resto_130,Delhi,Dwarka,4.6,1199,900,"Chinese, Momos",Yes
+DEL_131,Delhi_Resto_131,Delhi,Rajouri Garden,4.4,860,1800,South Indian,Yes
+DEL_132,Delhi_Resto_132,Delhi,Hauz Khas,3.4,1681,400,"North Indian, Mughlai",Yes
+DEL_133,Delhi_Resto_133,Delhi,Hauz Khas,3.9,1166,600,South Indian,Yes
+DEL_134,Delhi_Resto_134,Delhi,Connaught Place,2.9,792,400,"Chinese, Momos",Yes
+DEL_135,Delhi_Resto_135,Delhi,Hauz Khas,3.5,505,900,South Indian,No
+DEL_136,Delhi_Resto_136,Delhi,Connaught Place,4.0,792,600,Continental,No
+DEL_137,Delhi_Resto_137,Delhi,Saket,3.5,1356,900,Continental,Yes
+DEL_138,Delhi_Resto_138,Delhi,Dwarka,3.9,1000,900,South Indian,Yes
+DEL_139,Delhi_Resto_139,Delhi,Connaught Place,3.8,1878,600,"North Indian, Mughlai",No
+DEL_140,Delhi_Resto_140,Delhi,Rajouri Garden,4.1,1049,1800,"North Indian, Mughlai",Yes
+DEL_141,Delhi_Resto_141,Delhi,Dwarka,3.6,1171,600,"North Indian, Mughlai",Yes
+DEL_142,Delhi_Resto_142,Delhi,Connaught Place,3.3,1866,400,South Indian,No
+DEL_143,Delhi_Resto_143,Delhi,Dwarka,4.5,190,900,"North Indian, Mughlai",Yes
+DEL_144,Delhi_Resto_144,Delhi,Dwarka,3.6,430,900,"Chinese, Momos",Yes
+DEL_145,Delhi_Resto_145,Delhi,Dwarka,4.1,227,600,Continental,Yes
+DEL_146,Delhi_Resto_146,Delhi,Saket,4.5,1313,1200,"Chinese, Momos",No
+DEL_147,Delhi_Resto_147,Delhi,Rajouri Garden,3.9,689,1800,"North Indian, Mughlai",Yes
+DEL_148,Delhi_Resto_148,Delhi,CP,3.4,1805,400,"Chinese, Momos",Yes
+DEL_149,Delhi_Resto_149,Delhi,CP,3.7,1100,2500,"North Indian, Mughlai",Yes
+DEL_150,Delhi_Resto_150,Delhi,Connaught Place,4.3,428,400,South Indian,Yes
