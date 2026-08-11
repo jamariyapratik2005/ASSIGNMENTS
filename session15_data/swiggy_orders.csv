@@ -1,0 +1,101 @@
+Order_ID,Restaurant_Name,Item_Name,Category,Price,Delivery_Time_Mins,Customer_Rating
+SWG_90001,Burger King,Veg Whopper,Desserts,614,54,3.9
+SWG_90002,Biryani By Kilo,Zinger Burger,Main Course,675,59,4.9
+SWG_90003,Burger King,Chole Bhature,Desserts,729,27,3.7
+SWG_90004,KFC,Chicken Biryani,Fast Food,228,26,4.8
+SWG_90005,Burger King,Veggie Delite,Main Course,491,30,5.0
+SWG_90006,Biryani By Kilo,Zinger Burger,Fast Food,735,58,3.8
+SWG_90007,Haldiram,Veggie Delite,Desserts,325,23,4.6
+SWG_90008,Dominos Pizza,Chicken Biryani,Main Course,162,44,3.6
+SWG_90009,Subway,Zinger Burger,Fast Food,364,31,4.1
+SWG_90010,Burger King,Chicken Biryani,Desserts,406,45,4.3
+SWG_90011,Biryani By Kilo,Paneer Butter Masala,Desserts,474,57,4.4
+SWG_90012,Subway,Chicken Biryani,Beverages,595,31,4.9
+SWG_90013,Subway,Veggie Delite,Desserts,202,56,4.5
+SWG_90014,KFC,Veg Whopper,Fast Food,229,43,4.2
+SWG_90015,Subway,Chicken Biryani,Main Course,309,35,4.7
+SWG_90016,Haldiram,Chole Bhature,Beverages,370,32,4.9
+SWG_90017,Biryani By Kilo,Veg Whopper,Desserts,843,44,3.5
+SWG_90018,Biryani By Kilo,Paneer Butter Masala,Desserts,410,23,5.0
+SWG_90019,Burger King,Zinger Burger,Desserts,764,30,3.6
+SWG_90020,Burger King,Zinger Burger,Fast Food,320,51,4.7
+SWG_90021,Burger King,Veg Whopper,Beverages,445,26,3.9
+SWG_90022,Haldiram,Zinger Burger,Fast Food,630,30,3.7
+SWG_90023,Subway,Chicken Biryani,Beverages,528,47,4.2
+SWG_90024,Subway,Veg Whopper,Main Course,726,42,4.5
+SWG_90025,KFC,Veggie Delite,Fast Food,627,42,4.1
+SWG_90026,Haldiram,Chicken Biryani,Fast Food,720,47,3.6
+SWG_90027,Burger King,Chicken Biryani,Main Course,191,45,4.4
+SWG_90028,Dominos Pizza,Chicken Biryani,Beverages,366,44,4.9
+SWG_90029,KFC,Veggie Delite,Desserts,760,48,4.1
+SWG_90030,Dominos Pizza,Paneer Butter Masala,Main Course,843,38,3.8
+SWG_90031,Subway,Chole Bhature,Desserts,727,52,4.2
+SWG_90032,KFC,Zinger Burger,Desserts,706,55,3.6
+SWG_90033,KFC,Veg Whopper,Main Course,685,33,4.7
+SWG_90034,Biryani By Kilo,Paneer Butter Masala,Beverages,463,33,4.7
+SWG_90035,Subway,Veg Whopper,Desserts,173,54,4.4
+SWG_90036,Subway,Zinger Burger,Main Course,849,49,4.0
+SWG_90037,Haldiram,Veggie Delite,Fast Food,647,47,4.7
+SWG_90038,KFC,Chicken Biryani,Fast Food,730,36,4.3
+SWG_90039,Subway,Chicken Biryani,Fast Food,651,22,4.7
+SWG_90040,KFC,Veggie Delite,Main Course,677,35,4.4
+SWG_90041,Haldiram,Paneer Butter Masala,Fast Food,312,49,4.7
+SWG_90042,Haldiram,Paneer Butter Masala,Desserts,177,48,4.4
+SWG_90043,Biryani By Kilo,Veg Whopper,Fast Food,556,34,4.1
+SWG_90044,KFC,Veggie Delite,Fast Food,230,44,4.9
+SWG_90045,Subway,Paneer Butter Masala,Desserts,248,57,4.3
+SWG_90046,Subway,Veggie Delite,Fast Food,825,57,4.4
+SWG_90047,KFC,Zinger Burger,Desserts,445,42,3.8
+SWG_90048,KFC,Chicken Biryani,Fast Food,127,44,4.4
+SWG_90049,KFC,Chicken Biryani,Desserts,148,26,4.4
+SWG_90050,Burger King,Chicken Biryani,Fast Food,231,41,3.8
+SWG_90051,Subway,Veggie Delite,Desserts,792,36,3.6
+SWG_90052,Haldiram,Veggie Delite,Main Course,250,37,4.4
+SWG_90053,Subway,Veg Whopper,Desserts,307,29,4.6
+SWG_90054,Burger King,Chicken Biryani,Fast Food,794,29,4.3
+SWG_90055,KFC,Veg Whopper,Fast Food,828,26,3.8
+SWG_90056,Biryani By Kilo,Chicken Biryani,Beverages,594,57,4.5
+SWG_90057,KFC,Veg Whopper,Desserts,483,46,3.6
+SWG_90058,KFC,Veg Whopper,Main Course,323,52,4.2
+SWG_90059,Burger King,Zinger Burger,Desserts,331,20,3.7
+SWG_90060,Subway,Veg Whopper,Desserts,740,53,3.8
+SWG_90061,KFC,Veggie Delite,Main Course,395,23,3.8
+SWG_90062,Subway,Veg Whopper,Desserts,192,36,4.1
+SWG_90063,Dominos Pizza,Chicken Biryani,Main Course,798,23,3.6
+SWG_90064,Haldiram,Veg Whopper,Main Course,362,45,4.1
+SWG_90065,Subway,Paneer Butter Masala,Desserts,221,23,4.3
+SWG_90066,Biryani By Kilo,Chole Bhature,Desserts,804,20,4.2
+SWG_90067,Haldiram,Chicken Biryani,Fast Food,290,26,4.1
+SWG_90068,Biryani By Kilo,Paneer Butter Masala,Fast Food,772,49,4.8
+SWG_90069,KFC,Chicken Biryani,Beverages,307,28,3.7
+SWG_90070,Haldiram,Veggie Delite,Beverages,560,54,4.3
+SWG_90071,Subway,Chole Bhature,Desserts,205,27,3.6
+SWG_90072,Haldiram,Chole Bhature,Main Course,595,43,3.6
+SWG_90073,KFC,Veggie Delite,Beverages,171,38,4.4
+SWG_90074,Burger King,Chole Bhature,Desserts,230,55,4.3
+SWG_90075,Biryani By Kilo,Veggie Delite,Beverages,162,46,4.8
+SWG_90076,KFC,Paneer Butter Masala,Main Course,330,51,4.3
+SWG_90077,Burger King,Zinger Burger,Desserts,319,33,4.9
+SWG_90078,Haldiram,Chicken Biryani,Main Course,746,37,3.6
+SWG_90079,Haldiram,Veggie Delite,Desserts,145,47,3.6
+SWG_90080,KFC,Chicken Biryani,Beverages,418,48,3.6
+SWG_90081,Subway,Paneer Butter Masala,Fast Food,196,35,3.8
+SWG_90082,Haldiram,Zinger Burger,Beverages,256,54,4.3
+SWG_90083,Subway,Paneer Butter Masala,Beverages,139,50,4.5
+SWG_90084,Subway,Chole Bhature,Fast Food,559,23,3.6
+SWG_90085,Subway,Chicken Biryani,Fast Food,330,56,4.9
+SWG_90086,Dominos Pizza,Zinger Burger,Desserts,670,36,4.8
+SWG_90087,Burger King,Chole Bhature,Desserts,554,58,3.9
+SWG_90088,Burger King,Zinger Burger,Main Course,326,45,3.6
+SWG_90089,Haldiram,Chole Bhature,Main Course,558,58,3.8
+SWG_90090,Haldiram,Paneer Butter Masala,Beverages,785,23,3.7
+SWG_90091,Subway,Veggie Delite,Fast Food,161,49,3.7
+SWG_90092,Dominos Pizza,Chicken Biryani,Main Course,530,49,4.3
+SWG_90093,Subway,Veg Whopper,Beverages,642,41,3.9
+SWG_90094,Dominos Pizza,Veg Whopper,Fast Food,729,30,4.0
+SWG_90095,Subway,Paneer Butter Masala,Desserts,546,21,5.0
+SWG_90096,Biryani By Kilo,Chicken Biryani,Beverages,394,31,4.5
+SWG_90097,Biryani By Kilo,Chicken Biryani,Desserts,567,49,4.9
+SWG_90098,KFC,Paneer Butter Masala,Main Course,488,55,3.7
+SWG_90099,Subway,Chicken Biryani,Main Course,339,37,4.1
+SWG_90100,Haldiram,Veggie Delite,Fast Food,696,45,4.3
